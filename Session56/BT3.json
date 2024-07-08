@@ -1,0 +1,27 @@
+{
+    "usercoment": [
+        {
+            "id": 1,
+            "title": "Cách học React hiệu quả",
+            "content": "Đọc tài liệu và làm bài tập nhiều",
+            "thumbnail": "https://test4",
+            "created_at": "26/03/2024",
+            "created_by": "Ngọ Văn Quý",
+            "user_id": 1,
+            "comments": [
+                {
+                    "id": 1,
+                    "content": "bài viết rất có ý nghĩa",
+                    "created_at": "22/03/2024",
+                    "user_id": 2
+                },
+                {
+                    "id": 2,
+                    "content": "bài viết rất dở",
+                    "created_at": "24/03/2024",
+                    "user_id": 3
+                }
+            ]
+        }
+    ]
+}

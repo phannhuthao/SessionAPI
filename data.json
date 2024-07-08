@@ -1,0 +1,29 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Quần què",
+      "price": 15,
+      "stock": 13,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "2",
+      "name": "Áo",
+      "price": 25,
+      "stock": 12,
+      "description": "nothing",
+      "createdAt": "2"
+    },
+    {
+      "id": "3",
+      "name": "Nón lưỡi tra",
+      "price": 5,
+      "stock": 999,
+      "description": "nothing",
+      "createdAt": "2"
+    }
+  ],
+  "user": []
+}
