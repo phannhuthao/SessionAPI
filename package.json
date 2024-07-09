@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch Session56/BT3.json --port 9999",
+    "start": "json-server ohayo.json -m ./node_modules/json-server-auth --port 9999",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
   }
 }

@@ -6,7 +6,8 @@
       "price": 15,
       "stock": 13,
       "description": "nothing",
-      "createdAt": "2"
+      "createdAt": "2",
+      "userId":1
     },
     {
       "id": "2",
@@ -25,5 +26,16 @@
       "createdAt": "2"
     }
   ],
-  "user": []
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$a0xcMCf2LqZLuZF9Wwhc/OB6Gqp7G9k0hNHa1bzyySR9DgvjwYMJm",
+      "id": 1
+    },
+    {
+      "email": "hao@mail.com",
+      "password": "$2a$10$hp6Bc9Q9VO0kcQ8kpAJXkOTRJDbR0EHRVpuP.eCMp0XQK0tB5Fa4m",
+      "id": 2
+    }
+  ]
 }
